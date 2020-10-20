@@ -21,6 +21,28 @@
     "vue": "^2.6.11",
     "vue-zondicons": "^0.1.10"
   },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ],
+    "rules": {
+      "body-max-line-length": [
+        0,
+        "always",
+        "Infinity"
+      ],
+      "header-max-length": [
+        0,
+        "always",
+        "Infinity"
+      ]
+    }
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
     "@commitlint/config-conventional": "^11.0.0",
