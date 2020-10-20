@@ -7,13 +7,26 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "test:e2e": "vue-cli-service test:e2e",
-    "test:unit": "vue-cli-service test:unit"
+    "test:unit": "vue-cli-service test:unit",
+    "release": "semantic-release --no-ci"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:IgorDePaula/SdkUI.git"
   },
   "dependencies": {
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
   },
   "devDependencies": {
+    "@commitlint/cli": "^11.0.0",
+    "@commitlint/config-conventional": "^11.0.0",
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/commit-analyzer": "^8.0.1",
+    "@semantic-release/git": "^9.0.0",
+    "@semantic-release/github": "^7.1.1",
+    "@semantic-release/release-notes-generator": "^9.0.1",
     "@vue/cli-plugin-babel": "^4.5.0",
     "@vue/cli-plugin-e2e-cypress": "^4.5.0",
     "@vue/cli-plugin-eslint": "^4.5.0",
@@ -28,7 +41,9 @@
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.0",
     "eslint-plugin-vue": "^6.2.2",
+    "husky": "^4.3.0",
     "lint-staged": "^9.5.0",
+    "semantic-release": "^17.2.1",
     "vue-template-compiler": "^2.6.11"
   },
   "eslintConfig": {
