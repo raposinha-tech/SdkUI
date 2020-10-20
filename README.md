@@ -1,5 +1,5 @@
 # SdkUI
-
+![Github Actions](https://github.com/igordepaula/SdkUI/workflows/SdkUI/badge.svg)
 # WIP
 
 ## Project setup

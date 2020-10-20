@@ -1,3 +1,15 @@
+# [1.0.0-alpha.2](https://github.com/raposinha-tech/SdkUI/compare/v1.0.0-alpha.1...v1.0.0-alpha.2) (2020-10-20)
+
+
+### Bug Fixes
+
+* add commitlint script ([278df3b](https://github.com/raposinha-tech/SdkUI/commit/278df3b95a1d92877e836fcbf3a2f156100f0ab2))
+
+
+### Features
+
+* add card ([603bcd0](https://github.com/raposinha-tech/SdkUI/commit/603bcd0cd165658c05c1ea8ea3c162041339a9a7))
+
 # 1.0.0-alpha.1 (2020-10-20)
 
 
