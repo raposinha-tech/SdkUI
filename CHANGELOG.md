@@ -1,3 +1,10 @@
+# [1.0.0-alpha.3](https://github.com/raposinha-tech/SdkUI/compare/v1.0.0-alpha.2...v1.0.0-alpha.3) (2020-10-20)
+
+
+### Features
+
+* add alert ([8036411](https://github.com/raposinha-tech/SdkUI/commit/8036411fde01e4be24bd673b9a8eb9c18a63c552))
+
 # [1.0.0-alpha.2](https://github.com/raposinha-tech/SdkUI/compare/v1.0.0-alpha.1...v1.0.0-alpha.2) (2020-10-20)
 
 

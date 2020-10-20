@@ -1,5 +1,5 @@
 # SdkUI
-![Github Actions](https://github.com/raposinha-tech/SdkUI/workflows/SdkUI/badge.svg)
+[![Github Actions](https://github.com/raposinha-tech/SdkUI/workflows/SdkUI/badge.svg)](https://github.com/raposinha-tech/SdkUI/actions)
 # WIP
 
 ## Project setup
