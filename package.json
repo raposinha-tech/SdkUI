@@ -17,7 +17,9 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "tailwindcss": "^1.9.5",
+    "vue": "^2.6.11",
+    "vue-zondicons": "^0.1.10"
   },
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
